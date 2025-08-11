@@ -10,14 +10,14 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital de Minas Gerais?',
+    'A capital de Minas Gerais é Belo Horizonte'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'Qual a montanha mais alta do mundo??',
+    'Monte Everest '
 )
     criaCartao(
     'Lingua inglesa',
