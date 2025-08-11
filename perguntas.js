@@ -1,13 +1,8 @@
-Criar o arquivo perguntas.js   e    app.js
-
-no arquivo perguntas.js inserir os comandos:
-
 criaCartao(
     'Programação',
     'O que é Python?',
     'O Python é uma linguagem de programação'
 )
-
 criaCartao(
     'Geografia',
     'Qual a capital de Minas Gerais?',
