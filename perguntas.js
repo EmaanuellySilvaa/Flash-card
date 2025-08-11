@@ -16,7 +16,7 @@ criaCartao(
 
 criaCartao(
     'História',
-    'Qual a montanha mais alta do mundo??',
+    'Qual a montanha mais alta do mundo?',
     'Monte Everest '
 )
     criaCartao(
